@@ -94,5 +94,21 @@ This project aims to:
 👉 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2ZhNGEzOWQtZTE3My00MWI2LWJhNmQtODc5Y2E3OGJlZjZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
+##  Home Page
 ![Image](https://github.com/user-attachments/assets/91ef081d-905e-41e0-802a-5ee234a07029)
+
+##  Finance View
+![Image](https://github.com/user-attachments/assets/af199cf0-8f09-4842-ac80-868222e7e6f8)
+
+## Sales View
+![Image](https://github.com/user-attachments/assets/5060cd3c-669b-463c-865e-370c42e5e670)
+
+## Marketing View
+![Image](https://github.com/user-attachments/assets/ee046c82-c6b1-4a90-ae03-ce7c0f2e13da)
+
+## Supply Chain View
+![Image](https://github.com/user-attachments/assets/6783b521-6e1e-4ed9-b4b4-a21a9d99e5f9)
+
+## Executive View
+![Image](https://github.com/user-attachments/assets/b030a220-10ec-46d6-98ea-c4a69a007aca)
 
