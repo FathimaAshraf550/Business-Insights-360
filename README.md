@@ -59,6 +59,11 @@ This project aims to:
 - Used calculated columns and measures with DAX
 - Used What-If parameters and dynamic slicers
 
+  ![Image](https://github.com/user-attachments/assets/68b9c308-61c0-4ea2-bbc0-e13d4e9504fa)
+
+
+  
+
 ##  Dashboard Views
 
 | View | Description |
